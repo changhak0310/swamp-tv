@@ -1,0 +1,710 @@
+{
+    "code": 200,
+    "message": null,
+    "content": {
+        "totalCount": 28,
+        "totalPage": 1,
+        "followingList": [
+            {
+                "channelId": "0b33823ac81de48d5b78a38cdbc0ab94",
+                "channel": {
+                    "channelId": "0b33823ac81de48d5b78a38cdbc0ab94",
+                    "channelName": "울프",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyMzEyMjBfNDkg/MDAxNzAzMDU1NjA1MTY2.bCUbi8bRvnKsF6Gmw_EIPrll1fPYTkJzTDo243vchEEg.JIYN6Ve8RVWFNqjdiwrEImVAAK4s-bNrJRRGA0ikM8sg.JPEG/%EA%B7%B8%EC%9C%BD.jpg",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-08-02 00:02:33"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "5d53f8fa5bef9b1bd4dc884f9907c079",
+                "channel": {
+                    "channelId": "5d53f8fa5bef9b1bd4dc884f9907c079",
+                    "channelName": "명예훈장",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAzMDlfMjgz/MDAxNzA5OTcyMjE4MzE4.tazj8FnBUJm3wdTIvF2c_J0DiXPfEFC811J74rBHU6gg.LNbEKg4Dc4kxfTvtTHbBRMiOEezBmsPT3zwmvv6q8qsg.JPEG/ddd.jpg",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-05-09 22:08:02"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "07a040b24eb497dc36c31d82bc06ccc2",
+                "channel": {
+                    "channelId": "07a040b24eb497dc36c31d82bc06ccc2",
+                    "channelName": "DK 쇼메쇼메",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAzMDRfOTUg/MDAxNzA5NTQyMzM0Njgw.an6lpEo4tVUYGBocpxVs75ZmL373jsZxUomdp4TE61gg.Elzfs0_zPKnJUXEfUW4Yix4AtydlJFcj6RjmqNdPLhMg.JPEG/%EC%87%BC%EB%A9%94.jpg",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-03-18 07:29:09"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "d5cd28965639143517aeeadce9d5260c",
+                "channel": {
+                    "channelId": "d5cd28965639143517aeeadce9d5260c",
+                    "channelName": "너구리굴이",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAzMjVfMjEg/MDAxNzExMzUxNDQ3NzM0.uDMyOAOKi6kjN76QqD6JtSHk3_4Eodh8PpUm_XGQcYIg.FHsxs6v8iel8i-mMOuvKVyJ9PLP2cgMs5egCuBuCRUcg.JPEG/KakaoTalk_20240325_141507599.jpg",
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-03-16 18:24:44"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "f49ebb4cc978594951f227badeb5a12c",
+                "channel": {
+                    "channelId": "f49ebb4cc978594951f227badeb5a12c",
+                    "channelName": "옌룡 Yenryong",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyMzEyMjJfMjA5/MDAxNzAzMjM2NTczNTQ0.EBhg2kMwVgxo-10hU42NmYH8K_hygCSLxkfF2nUN9uwg.o7vwySv03ObOUA-ZUm1qzLHOGakwvr4uWqbUbWZ18YUg.JPEG/%EC%98%8C%EB%A3%A1_%EC%9C%A0%ED%8A%9C%EB%B8%8C_%ED%94%84%EB%A1%9C%ED%95%84.jpg",
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": true
+                },
+                "liveInfo": {
+                    "liveTitle": "노래방송tv~",
+                    "concurrentUserCount": 36,
+                    "liveCategoryValue": "음악/노래"
+                }
+            },
+            {
+                "channelId": "8f78817294f5a2b7eb19fffea059db97",
+                "channel": {
+                    "channelId": "8f78817294f5a2b7eb19fffea059db97",
+                    "channelName": "진덕춘",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDA1MzBfMTY5/MDAxNzE3MDE1NTUxNDQ3.GGInk-0ZQKvv8RrY08eYkcUI8KH34WzQXfURD_7EHSMg.mpa4U6zVEdN92IaBVtheAkqOZf0gUkQYJNAMZljjxt8g.PNG/3A7B38CC-2F9A-401B-A525-E83A3E00CC97-1717015550.png",
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "68f895c59a1043bc5019b5e08c83a5c5",
+                "channel": {
+                    "channelId": "68f895c59a1043bc5019b5e08c83a5c5",
+                    "channelName": "라디유radiyu",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyMzEyMjBfMTUg/MDAxNzAyOTk4ODA4Mzc3.DptR2Vr9WwlDyJBhbfiOudHH7Xn3Fsh-6I2NPalQYZQg.YWYhgB6Mczf7-RPiHOHdNjIM0uAvE-t_8HWG_lmBDscg.JPEG/%EC%9B%A1%EC%9B%A1%EB%94%94%EB%94%94%EC%9C%A0.JPG",
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "53ba9471b67028240ab0cb2c77fc0835",
+                "channel": {
+                    "channelId": "53ba9471b67028240ab0cb2c77fc0835",
+                    "channelName": "Rainbow6KR 레인보우식스",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAyMTNfNjMg/MDAxNzA3ODE1MDQ2NjMw.1vKFl6DywNuwX0WVQ4Jm94yRfYY4ExtFui5C_4-G1ssg.Capq1QzWgW2guHE21YjVSLZJw0ujLTOPQZenoEpymhcg.PNG/22310410-91f6-4ab4-9bf1-9e669870771e-profile_image-300x300.png",
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "93fe884808459fb4e4a3c7d64f0eef03",
+                "channel": {
+                    "channelId": "93fe884808459fb4e4a3c7d64f0eef03",
+                    "channelName": "고차비",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyMzEyMTlfMTk1/MDAxNzAyOTgxMTQ3ODkw.I_CIghYwKdLcRlNn0PvsEKWAYircWwL6A7D1J3TrWDwg.nYGF6wBDgpH3XEOgJMgV1dRM4Rq5s3e27M4nE9zNVSsg.PNG/78c691c2-4575-4f10-935c-6b7dad18a95c-profile_image-300x300.png",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": true
+                },
+                "liveInfo": {
+                    "liveTitle": "고차비✿ NEW 네이버 이모티콘 출시!!  !VPN",
+                    "concurrentUserCount": 934,
+                    "liveCategoryValue": "Grand Theft Auto V"
+                }
+            },
+            {
+                "channelId": "5f44570b82fb82d4814ef9502cf6401a",
+                "channel": {
+                    "channelId": "5f44570b82fb82d4814ef9502cf6401a",
+                    "channelName": "삐부",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDA0MDZfNzQg/MDAxNzEyMzk2ODIxOTc1.JVm85OQpnglBN7Kdo07zHYXWvcV-ZCoOTbnUTDcB2Ksg.A4oD57zoyR-HfZNAaTA6q9tLGv-3vhmefLR0rNUpUbkg.PNG/20230904-_%281%29.png",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": true
+                },
+                "liveInfo": {
+                    "liveTitle": "이리뉴비...이무니다...",
+                    "concurrentUserCount": 437,
+                    "liveCategoryValue": "이터널 리턴"
+                }
+            },
+            {
+                "channelId": "1648de417c7401ebf7a7033e909d02a7",
+                "channel": {
+                    "channelId": "1648de417c7401ebf7a7033e909d02a7",
+                    "channelName": "이구역파괴왕4027",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDA2MjlfOSAg/MDAxNzE5NjU3NTcxNTM1.NiHZv1apyRdm_z0qbJwp6vKnsCgINtvg9H_sopy3H7gg.EpG27eNAEsZfDgC0ikfwP5BUlczIVRXrU33T-g96fX8g.PNG/51212919_2296365740579030_8798652101161910272_n.png",
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "3e825479d71ead63b76de0d6f6b5dc83",
+                "channel": {
+                    "channelId": "3e825479d71ead63b76de0d6f6b5dc83",
+                    "channelName": "양아지",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDA0MjRfMTI5/MDAxNzEzOTUwMzk4NDEx.xa4Wb4RPbTyOf7r3j6wycvQBwG5Akz8HtXpOMp7vnL4g.dOu9fO4j3awKBX82sPyWd13W7bhdzzRqjo6eB9015_8g.PNG/2_%286%29.png",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "a4d3ed2ad96bc0c2c6db425588d5ed19",
+                "channel": {
+                    "channelId": "a4d3ed2ad96bc0c2c6db425588d5ed19",
+                    "channelName": "망 개",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDA2MjBfMTMy/MDAxNzE4ODExNTk2MDAx.EvdD9XKXzqJqbi_xCnLhCEUx4QqIhcgHvjDz8PCOzJ0g.mG0eLYiu7jj94f12dtslZ6Fgp9zE8OzA7m_E59sI5YUg.PNG/%EC%BA%A1%EC%B2%98.PNG",
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "d809d237fd803eaef9602ba729491dd4",
+                "channel": {
+                    "channelId": "d809d237fd803eaef9602ba729491dd4",
+                    "channelName": "치킨먹는 엘프 8143",
+                    "channelImageUrl": null,
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "5f800579267362c952f76f3c6fe695b2",
+                "channel": {
+                    "channelId": "5f800579267362c952f76f3c6fe695b2",
+                    "channelName": "금사향",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAxMTRfMjcw/MDAxNzA1MTkxNTU3NDc4.x1rCWsOynlDIT3N_1BLWbw5XDGcLho1UmOWO1js0paQg.u36jm24pj_pXZbpZA6W-paJKHef3jeaqfYt1qv7CnB4g.JPEG/NNG-17051915570515810076277150875551.jpg",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": true
+                },
+                "liveInfo": {
+                    "liveTitle": ":3",
+                    "concurrentUserCount": 561,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "aed9d6557bebfb21ab3d081b862cdd2d",
+                "channel": {
+                    "channelId": "aed9d6557bebfb21ab3d081b862cdd2d",
+                    "channelName": "이춘향",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyMzEyMjJfMjg0/MDAxNzAzMjQyNTE3MDk5.CuBTzC4M3BeLP9NYEY-p1rYTxW3qfyhTL_zNHI6qaUYg.ohdthdl_5mMiiLo29KGJ_rimQSVm1DNO8Z2dhuhtyugg.PNG/4CBB95E5-2793-46B3-A7D1-F2DD167452CA.png",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": true
+                },
+                "liveInfo": {
+                    "liveTitle": "아쉬워 벌써 일요일~",
+                    "concurrentUserCount": 1509,
+                    "liveCategoryValue": "talk"
+                }
+            },
+            {
+                "channelId": "b1099827eb54bab6771bae5c85e887b7",
+                "channel": {
+                    "channelId": "b1099827eb54bab6771bae5c85e887b7",
+                    "channelName": "설백",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDA0MDJfMTE2/MDAxNzEyMDQzNDg3MTM3.kA8Vuzai8YjBkI7DJUYXMKHTGXm3o1RlmrJN-fw9aGEg.x9lBMI0Sk-PmZEyLwt1xGUCCv_uaQ9NrePD7CTyzUPIg.PNG/%EC%84%A4%EB%B0%B1%EB%8B%98_%EC%8D%B8%EB%84%A4%EC%9D%BC389-%EC%86%8C%EC%8A%A42.png",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:41"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "a7e175625fdea5a7d98428302b7aa57f",
+                "channel": {
+                    "channelId": "a7e175625fdea5a7d98428302b7aa57f",
+                    "channelName": "탬탬버린",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyMzEyMTlfNzEg/MDAxNzAyOTYzMjYyNzg0.p5NGvJ8O95i4qr34yZkV7ERB3ILAufDv-_5gCUmGgyAg.rHSlJvL9dDHVkuFLZcR46qtPa1QCEqDDelVJ60sLe1cg.PNG/ed86de06d353e32b.png",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:40"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "1bde12e163ccc7ac25ab0362fdf9faa4",
+                "channel": {
+                    "channelId": "1bde12e163ccc7ac25ab0362fdf9faa4",
+                    "channelName": "김펭귄",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAxMDlfMTkz/MDAxNzA0Nzc5MjczMjUx.O9AcbFepAz2wBpanRgRE_1gF401F99Fq6iC1jHzl0kYg.ChKb3kvtV1QfYkTWAhAAaZJJ4wCUn6jcUeNeebMDusYg.PNG/image.png",
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-27 06:22:40"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "431d19e0eeeb5ecc1cd9628dc0840c9e",
+                "channel": {
+                    "channelId": "431d19e0eeeb5ecc1cd9628dc0840c9e",
+                    "channelName": "만 득",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAyMDJfODgg/MDAxNzA2ODE1MDE4NzQ4.6s71p8ofRo5E4M1gAW0Dd6kTJWRgfnOnoUJC7q8VihUg.Z6GHrjzT_cHGa4KvXxoLhzpYzcnP79MTuIlALBoj9MYg.JPEG/%EC%98%A4%EB%AC%98%ED%95%9C%ED%91%9C%EC%A0%95.jpg",
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-05 03:10:11"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": true
+                },
+                "liveInfo": {
+                    "liveTitle": "빙하기 대처 시뮬레이션",
+                    "concurrentUserCount": 36,
+                    "liveCategoryValue": "프로스트펑크"
+                }
+            },
+            {
+                "channelId": "af3323d30e11ae42c39d7203c7e07fa2",
+                "channel": {
+                    "channelId": "af3323d30e11ae42c39d7203c7e07fa2",
+                    "channelName": "너불1",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAyMjlfMjcz/MDAxNzA5MjE0NDYwMzEy.dQvgcBdhcAdX8cAx0YgzS0YMrakV3Z4ss6Mz1b5DfUcg.yuS4A_DBGE7z1BGuBpEyZnE7FnQUx1jk1VhBhkTpHBYg.JPEG/IMG_3079.jpg",
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-02-04 01:31:43"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": true
+                },
+                "liveInfo": {
+                    "liveTitle": "반갑습니다 이따 노래뱅",
+                    "concurrentUserCount": 415,
+                    "liveCategoryValue": "talk"
+                }
+            },
+            {
+                "channelId": "0dcec72cd1033032a77dfced6c0c91f8",
+                "channel": {
+                    "channelId": "0dcec72cd1033032a77dfced6c0c91f8",
+                    "channelName": "핑맨",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAxMTZfMTUy/MDAxNzA1MzQ2MzAyMTk1.Yx7vkk0J_zrRwwO1phw9a4Nv3gdbJVdfA6SiEBdC3fwg.KoyqttnEWA7pEkXlclRKnLKtNA1VK5Sg0AmJ6mPh3I4g.PNG/e25eceea-dc89-4efa-9dba-3424ff63b636-profile_image-300x300.png",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2024-01-23 21:24:00"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": true
+                },
+                "liveInfo": {
+                    "liveTitle": "[핑맨] 아프리카 마크서버 [다이아 켠왕 실패 벌칙 : 공포게임 켠왕]",
+                    "concurrentUserCount": 812,
+                    "liveCategoryValue": "마인크래프트"
+                }
+            },
+            {
+                "channelId": "219d8e65810a77d6e42c7df018d9632b",
+                "channel": {
+                    "channelId": "219d8e65810a77d6e42c7df018d9632b",
+                    "channelName": "마뫄",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyMzEyMTlfNDAg/MDAxNzAyOTY0OTM5Nzgz.Rh9xnEtByJ7kkjJxkvbwq-PFpy5L6bOoQBmpKLmDKfIg.KvRYR2vMCaWOwG2Wp7sVHW62BipduF93Y_EvddmIa1Ig.JPEG/unnamed.jpg",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2023-12-25 12:04:34"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "ac6a03808bffbe58b3bfb0e25271836e",
+                "channel": {
+                    "channelId": "ac6a03808bffbe58b3bfb0e25271836e",
+                    "channelName": "남봉",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyMzEyMTlfMTk2/MDAxNzAyOTU1OTg1MzIw.7Vykx6q6HDJ2z72i2KR5_QdRe3-bpljTDnmkUD0NgcIg.06V8PQRppPpNN21KMeUd3ybuCVfkvAkRMEgX1kiOc0Ug.JPEG/KakaoTalk_20230316_203248232.jpg",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2023-12-21 16:52:20"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "29f20622463916fa48ad735057b145ce",
+                "channel": {
+                    "channelId": "29f20622463916fa48ad735057b145ce",
+                    "channelName": "멋사",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAxMDJfNjUg/MDAxNzA0MTkyMzI1MzY5.61wfMebfwgpDvH1vha-f7XUfQxXXcj51LKATMO_vicAg.3ntP8Eq8NZAkAOk1ev77vrN53A5WT6-9iNrlVmW62wcg.PNG/photo_0.PNG",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2023-12-21 02:16:35"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": true
+                },
+                "liveInfo": {
+                    "liveTitle": "GTA5 페리코습격 : 마피아섭 털기",
+                    "concurrentUserCount": 1196,
+                    "liveCategoryValue": "Grand Theft Auto V"
+                }
+            },
+            {
+                "channelId": "22bd842599735ae19e454983280f611e",
+                "channel": {
+                    "channelId": "22bd842599735ae19e454983280f611e",
+                    "channelName": "ENCHANT",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyMzEyMTVfMjYy/MDAxNzAyNjIwMzQ5NjE1.tVl6ew-9iBd3Z3fEG8iRmzCFbUpf3qKj_o1BSXWB73og.kqiVM7bjKl40zr9m52PqMdO6cZB6mIXYA7PRIM388mcg.JPEG/Symbol.jpg",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": false,
+                            "followDate": "2023-12-20 18:31:45"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "c68b8ef525fb3d2fa146344d84991753",
+                "channel": {
+                    "channelId": "c68b8ef525fb3d2fa146344d84991753",
+                    "channelName": "진짜도현",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyMzEyMTlfMTc2/MDAxNzAyOTU2MDIyMDcy.cs4reRZIaW8vmdQvxI0p1FYgKyq6j8sFEORtFD5EJSQg.82cGdftwe4Y9-CIyMswa4P6dTZh3B4q9jr-B6B0Lj3kg.JPEG/IMG_3536.jpg",
+                    "verifiedMark": false,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": false,
+                            "followDate": "2023-12-19 12:06:09"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            },
+            {
+                "channelId": "80b36a0ae8e887e893ce0014dbfece4a",
+                "channel": {
+                    "channelId": "80b36a0ae8e887e893ce0014dbfece4a",
+                    "channelName": "나나양",
+                    "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyMzEyMTlfMjU2/MDAxNzAyOTU0NjI3Nzc2.KRr9DOgrkexb3_ZkXbBRVxeTSUoZlW4M0DGUxH4aSxUg.LvLOVtEF40gDdm0B-uI9yB72KRhVQVPaKZYGZIM60Kgg.PNG/%EB%BF%8C%EC%9A%B0.png",
+                    "verifiedMark": true,
+                    "personalData": {
+                        "following": {
+                            "following": true,
+                            "notification": true,
+                            "followDate": "2023-12-19 12:03:16"
+                        },
+                        "privateUserBlock": false
+                    }
+                },
+                "streamer": {
+                    "openLive": false
+                },
+                "liveInfo": {
+                    "liveTitle": null,
+                    "concurrentUserCount": 0,
+                    "liveCategoryValue": ""
+                }
+            }
+        ]
+    }
+}
