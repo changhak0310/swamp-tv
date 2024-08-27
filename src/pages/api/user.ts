@@ -1,6 +1,7 @@
 import axios from 'axios';
+import type { NextApiRequest, NextApiResponse } from "next";
 
-export default async function handler(req: any, res: any) {
+export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   const { nidAuth, nidSession } = req.query; // 쿠키에서 NID_AUT와 NID_SES를 받아옵니다.
 
   try {
