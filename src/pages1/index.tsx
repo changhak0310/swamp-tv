@@ -7,6 +7,7 @@ export default function Home() {
 
   return (
     <div className="container mx-auto p-4">
+      <a href='/test'>test</a>
       <h1 className="text-3xl font-bold mb-4">Swamp Streamers</h1>
       {loading ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -44,6 +45,7 @@ export default function Home() {
                 <h2 className="text-xl font-bold">{streamer.channelName}</h2>
                 {streamer.openLive && streamer.live ? (
                   <LiveDetailCard
+                    
                     liveTitle={streamer.live.liveTitle}
                     liveImageUrl={streamer.live.liveImageUrl}
                     concurrentUserCount={streamer.live.concurrentUserCount}

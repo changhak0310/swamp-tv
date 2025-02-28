@@ -11,8 +11,8 @@
 
 import { NextApiRequest, NextApiResponse } from 'next';
 import { swampData } from '@/constants/swampData';
-import { fetchChzStreamerInfo, fetchChzLiveDetail } from '@/services/chzService';
-import { fetchAfStreamerInfo } from '@/services/afService';
+import { fetchChzStreamerInfo, fetchChzLiveDetail } from '@/services/chz/chzService';
+import { fetchAfStreamerInfo } from '@/services/af/afService';
 import {
   transformChzStreamerData,
   transformChzLiveDetailData,

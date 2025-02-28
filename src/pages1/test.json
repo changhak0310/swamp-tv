@@ -1,0 +1,509 @@
+{
+    "code": 200,
+    "message": null,
+    "content": {
+        "liveId": 8242175,
+        "liveTitle": "[명훈] 붕괴 스타레일 2일차 (비소,스파클,로빈 오너)",
+        "status": "OPEN",
+        "liveImageUrl": "https://livecloud-thumb.akamaized.net/chzzk/livecloud/KR/stream/26466677/live/8242175/record/32430594/thumbnail/image_{type}.jpg",
+        "defaultThumbnailImageUrl": null,
+        "concurrentUserCount": 1297,
+        "accumulateCount": 69113,
+        "openDate": "2024-09-29 21:50:57",
+        "closeDate": null,
+        "adult": false,
+        "clipActive": true,
+        "tags": [
+            "명훈",
+            "메이플",
+            "산악회",
+            "메이플스토리",
+            "로스트아크"
+        ],
+        "chatChannelId": "N1Qef1",
+        "categoryType": "GAME",
+        "liveCategory": "Honkai_Impact_Star_Rail",
+        "liveCategoryValue": "붕괴: 스타레일",
+        "chatActive": true,
+        "chatAvailableGroup": "FOLLOWER",
+        "paidPromotion": false,
+        "chatAvailableCondition": "NONE",
+        "minFollowerMinute": 10,
+        "allowSubscriberInFollowerMode": true,
+        "livePlaybackJson": "{\"meta\":{\"videoId\":\"4F36ED53C76D5DADBD45977D5A4B782B3374\",\"streamSeq\":26466677,\"liveId\":\"8242175\",\"paidLive\":false,\"cdnInfo\":{\"cdnType\":\"LCDN\",\"zeroRating\":false},\"p2p\":true,\"cmcdEnabled\":false},\"serviceMeta\":{\"contentType\":\"VIDEO\"},\"live\":{\"start\":\"2024-09-29T21:50:57\",\"open\":\"2024-09-30T06:30:30\",\"timeMachine\":false,\"status\":\"STOPPED\"},\"api\":[{\"name\":\"p2p-config\",\"path\":\"https://apis.naver.com/livecloud/livecloud/xray/p2p/v1/config/chzzk\"},{\"name\":\"qoeConfig\",\"path\":\"https://apis.naver.com/policy/policy/policy\"}],\"media\":[{\"mediaId\":\"HLS\",\"protocol\":\"HLS\",\"path\":\"https://livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0004/nzjiaargglwmgaxk2beh3nkgvzifgpz9gq/hls_playlist.m3u8?hdnts=st=1727662499~exp=1727721909~acl=*/nzjiaargglwmgaxk2beh3nkgvzifgpz9gq/*~hmac=7c779a9fbcba3e5dcd4826054baec0bfedc6e10d7ea897fa8a01ea061ee1c1c4\",\"encodingTrack\":[{\"encodingTrackId\":\"1080p\",\"videoProfile\":\"high\",\"audioProfile\":\"LC\",\"p2pPath\":\"/chzzk/lip2_kr/cflexnmss2u0004/rsabmfs0vegyisbj4dr26cppqgvzifgpzdaj/1080p_hls_playlist.m3u8?channel_id=8242175_hls_h264_1080p_32430594&cdn_url=aHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDQvcnNhYm1mczB2ZWd5aXNiajRkcjI2Y3BwcWd2emlmZ3B6ZGFqLzEwODBwX2hsc19wbGF5bGlzdC5tM3U4P2hkbnRzPXN0PTE3Mjc2NjI0OTl+ZXhwPTE3Mjc3MjE5MDl+YWNsPSovcnNhYm1mczB2ZWd5aXNiajRkcjI2Y3BwcWd2emlmZ3B6ZGFqLyp+aG1hYz0xMWY0M2Y5NWU2MmE2MDg1M2NkNmFjMDc1ZDA1ODAzODIyMDA4ODVmNDgzY2NhNGZiYzZiZjEyODVhZGFkMTMw&timemachine=false&service_code=chzzk\",\"p2pPathUrlEncoding\":\"/chzzk/lip2_kr/cflexnmss2u0004/rsabmfs0vegyisbj4dr26cppqgvzifgpzdaj/1080p_hls_playlist.m3u8?channel_id%3D8242175_hls_h264_1080p_32430594%26cdn_url%3DaHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDQvcnNhYm1mczB2ZWd5aXNiajRkcjI2Y3BwcWd2emlmZ3B6ZGFqLzEwODBwX2hsc19wbGF5bGlzdC5tM3U4P2hkbnRzPXN0PTE3Mjc2NjI0OTl%2BZXhwPTE3Mjc3MjE5MDl%2BYWNsPSovcnNhYm1mczB2ZWd5aXNiajRkcjI2Y3BwcWd2emlmZ3B6ZGFqLyp%2BaG1hYz0xMWY0M2Y5NWU2MmE2MDg1M2NkNmFjMDc1ZDA1ODAzODIyMDA4ODVmNDgzY2NhNGZiYzZiZjEyODVhZGFkMTMw%26timemachine%3Dfalse%26service_code%3Dchzzk\",\"videoCodec\":\"H264\",\"videoBitRate\":8192000,\"audioBitRate\":192000,\"videoFrameRate\":\"60.0\",\"videoWidth\":1920,\"videoHeight\":1080,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":true,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"144p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":128000,\"audioBitRate\":64000,\"videoFrameRate\":\"30.0\",\"videoWidth\":256,\"videoHeight\":144,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"360p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":800000,\"audioBitRate\":192000,\"videoFrameRate\":\"30.0\",\"videoWidth\":640,\"videoHeight\":360,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"720p\",\"videoProfile\":\"high\",\"audioProfile\":\"LC\",\"p2pPath\":\"/chzzk/lip2_kr/cflexnmss2u0004/rsabmfs0vegyisbj4dr26cppqgvzifgpzdaj/720p_hls_playlist.m3u8?channel_id=8242175_hls_h264_720p_32430594&cdn_url=aHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDQvcnNhYm1mczB2ZWd5aXNiajRkcjI2Y3BwcWd2emlmZ3B6ZGFqLzcyMHBfaGxzX3BsYXlsaXN0Lm0zdTg/aGRudHM9c3Q9MTcyNzY2MjQ5OX5leHA9MTcyNzcyMTkwOX5hY2w9Ki9yc2FibWZzMHZlZ3lpc2JqNGRyMjZjcHBxZ3Z6aWZncHpkYWovKn5obWFjPTExZjQzZjk1ZTYyYTYwODUzY2Q2YWMwNzVkMDU4MDM4MjIwMDg4NWY0ODNjY2E0ZmJjNmJmMTI4NWFkYWQxMzA=&timemachine=false&service_code=chzzk\",\"p2pPathUrlEncoding\":\"/chzzk/lip2_kr/cflexnmss2u0004/rsabmfs0vegyisbj4dr26cppqgvzifgpzdaj/720p_hls_playlist.m3u8?channel_id%3D8242175_hls_h264_720p_32430594%26cdn_url%3DaHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDQvcnNhYm1mczB2ZWd5aXNiajRkcjI2Y3BwcWd2emlmZ3B6ZGFqLzcyMHBfaGxzX3BsYXlsaXN0Lm0zdTg%2FaGRudHM9c3Q9MTcyNzY2MjQ5OX5leHA9MTcyNzcyMTkwOX5hY2w9Ki9yc2FibWZzMHZlZ3lpc2JqNGRyMjZjcHBxZ3Z6aWZncHpkYWovKn5obWFjPTExZjQzZjk1ZTYyYTYwODUzY2Q2YWMwNzVkMDU4MDM4MjIwMDg4NWY0ODNjY2E0ZmJjNmJmMTI4NWFkYWQxMzA%3D%26timemachine%3Dfalse%26service_code%3Dchzzk\",\"videoCodec\":\"H264\",\"videoBitRate\":5000000,\"audioBitRate\":192000,\"videoFrameRate\":\"60.0\",\"videoWidth\":1280,\"videoHeight\":720,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"480p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":1500000,\"audioBitRate\":192000,\"videoFrameRate\":\"30.0\",\"videoWidth\":852,\"videoHeight\":480,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"}]},{\"mediaId\":\"LLHLS\",\"protocol\":\"HLS\",\"path\":\"https://livecloud.pstatic.net/chzzk/lip2_kr/cflexnmss2u0004/nzjiaargglwmgaxk2beh3nkgvzifgpz9gq/playlist.m3u8?hdnts=st=1727662499~exp=1727721909~acl=*/nzjiaargglwmgaxk2beh3nkgvzifgpz9gq/*~hmac=7c779a9fbcba3e5dcd4826054baec0bfedc6e10d7ea897fa8a01ea061ee1c1c4\",\"latency\":\"lowLatency\",\"encodingTrack\":[{\"encodingTrackId\":\"1080p\",\"videoProfile\":\"high\",\"audioProfile\":\"LC\",\"p2pPath\":\"/chzzk/lip2_kr/cflexnmss2u0004/nzjiaargglwmgaxk2beh3nkgvzifgpz9gq/1080p_playlist.m3u8?channel_id=8242175_hls_h264_1080p_32430594&cdn_url=aHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDQvbnpqaWFhcmdnbHdtZ2F4azJiZWgzbmtndnppZmdwejlncS8xMDgwcF9wbGF5bGlzdC5tM3U4P2hkbnRzPXN0PTE3Mjc2NjI0OTl+ZXhwPTE3Mjc3MjE5MDl+YWNsPSovbnpqaWFhcmdnbHdtZ2F4azJiZWgzbmtndnppZmdwejlncS8qfmhtYWM9N2M3NzlhOWZiY2JhM2U1ZGNkNDgyNjA1NGJhZWMwYmZlZGM2ZTEwZDdlYTg5N2ZhOGEwMWVhMDYxZWUxYzFjNA==&timemachine=false&service_code=chzzk\",\"p2pPathUrlEncoding\":\"/chzzk/lip2_kr/cflexnmss2u0004/nzjiaargglwmgaxk2beh3nkgvzifgpz9gq/1080p_playlist.m3u8?channel_id%3D8242175_hls_h264_1080p_32430594%26cdn_url%3DaHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDQvbnpqaWFhcmdnbHdtZ2F4azJiZWgzbmtndnppZmdwejlncS8xMDgwcF9wbGF5bGlzdC5tM3U4P2hkbnRzPXN0PTE3Mjc2NjI0OTl%2BZXhwPTE3Mjc3MjE5MDl%2BYWNsPSovbnpqaWFhcmdnbHdtZ2F4azJiZWgzbmtndnppZmdwejlncS8qfmhtYWM9N2M3NzlhOWZiY2JhM2U1ZGNkNDgyNjA1NGJhZWMwYmZlZGM2ZTEwZDdlYTg5N2ZhOGEwMWVhMDYxZWUxYzFjNA%3D%3D%26timemachine%3Dfalse%26service_code%3Dchzzk\",\"videoCodec\":\"H264\",\"videoBitRate\":8192000,\"audioBitRate\":192000,\"videoFrameRate\":\"60.0\",\"videoWidth\":1920,\"videoHeight\":1080,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":true,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"144p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":128000,\"audioBitRate\":64000,\"videoFrameRate\":\"30.0\",\"videoWidth\":256,\"videoHeight\":144,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"360p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":800000,\"audioBitRate\":192000,\"videoFrameRate\":\"30.0\",\"videoWidth\":640,\"videoHeight\":360,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"720p\",\"videoProfile\":\"high\",\"audioProfile\":\"LC\",\"p2pPath\":\"/chzzk/lip2_kr/cflexnmss2u0004/nzjiaargglwmgaxk2beh3nkgvzifgpz9gq/720p_playlist.m3u8?channel_id=8242175_hls_h264_720p_32430594&cdn_url=aHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDQvbnpqaWFhcmdnbHdtZ2F4azJiZWgzbmtndnppZmdwejlncS83MjBwX3BsYXlsaXN0Lm0zdTg/aGRudHM9c3Q9MTcyNzY2MjQ5OX5leHA9MTcyNzcyMTkwOX5hY2w9Ki9uemppYWFyZ2dsd21nYXhrMmJlaDNua2d2emlmZ3B6OWdxLyp+aG1hYz03Yzc3OWE5ZmJjYmEzZTVkY2Q0ODI2MDU0YmFlYzBiZmVkYzZlMTBkN2VhODk3ZmE4YTAxZWEwNjFlZTFjMWM0&timemachine=false&service_code=chzzk\",\"p2pPathUrlEncoding\":\"/chzzk/lip2_kr/cflexnmss2u0004/nzjiaargglwmgaxk2beh3nkgvzifgpz9gq/720p_playlist.m3u8?channel_id%3D8242175_hls_h264_720p_32430594%26cdn_url%3DaHR0cHM6Ly9saXZlY2xvdWQucHN0YXRpYy5uZXQvY2h6emsvbGlwMl9rci9jZmxleG5tc3MydTAwMDQvbnpqaWFhcmdnbHdtZ2F4azJiZWgzbmtndnppZmdwejlncS83MjBwX3BsYXlsaXN0Lm0zdTg%2FaGRudHM9c3Q9MTcyNzY2MjQ5OX5leHA9MTcyNzcyMTkwOX5hY2w9Ki9uemppYWFyZ2dsd21nYXhrMmJlaDNua2d2emlmZ3B6OWdxLyp%2BaG1hYz03Yzc3OWE5ZmJjYmEzZTVkY2Q0ODI2MDU0YmFlYzBiZmVkYzZlMTBkN2VhODk3ZmE4YTAxZWEwNjFlZTFjMWM0%26timemachine%3Dfalse%26service_code%3Dchzzk\",\"videoCodec\":\"H264\",\"videoBitRate\":5000000,\"audioBitRate\":192000,\"videoFrameRate\":\"60.0\",\"videoWidth\":1280,\"videoHeight\":720,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"},{\"encodingTrackId\":\"480p\",\"videoProfile\":\"main\",\"audioProfile\":\"LC\",\"videoCodec\":\"H264\",\"videoBitRate\":1500000,\"audioBitRate\":192000,\"videoFrameRate\":\"30.0\",\"videoWidth\":852,\"videoHeight\":480,\"audioSamplingRate\":48000,\"audioChannel\":2,\"avoidReencoding\":false,\"videoDynamicRange\":\"SDR\"}]}],\"thumbnail\":{\"snapshotThumbnailTemplate\":\"https://livecloud-thumb.akamaized.net/chzzk/livecloud/KR/stream/26466677/live/8242175/record/32430594/thumbnail/image_{type}.jpg\",\"types\":[\"1080\",\"720\",\"480\",\"360\",\"270\",\"144\"]},\"multiview\":[]}",
+        "p2pQuality": [
+            "1080p",
+            "720p"
+        ],
+        "channel": {
+            "channelId": "5d53f8fa5bef9b1bd4dc884f9907c079",
+            "channelName": "명예훈장",
+            "channelImageUrl": "https://nng-phinf.pstatic.net/MjAyNDAzMDlfMjgz/MDAxNzA5OTcyMjE4MzE4.tazj8FnBUJm3wdTIvF2c_J0DiXPfEFC811J74rBHU6gg.LNbEKg4Dc4kxfTvtTHbBRMiOEezBmsPT3zwmvv6q8qsg.JPEG/ddd.jpg",
+            "verifiedMark": true
+        },
+        "livePollingStatusJson": "{\"status\": \"STARTED\", \"isPublishing\": false, \"playableStatus\": \"PLAYABLE\", \"trafficThrottling\": -1, \"callPeriodMilliSecond\": 10000}",
+        "userAdultStatus": null,
+        "blindType": null,
+        "chatDonationRankingExposure": true,
+        "adParameter": {
+            "tag": "none"
+        },
+        "dropsCampaignNo": null
+    }
+}
+
+{
+    "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/ca\/calinya\/calinya.jpg",
+    "station": {
+        "display": {
+            "main_type": "1110",
+            "title_type": "IMAGE",
+            "title_text": "",
+            "profile_text": "\uc9c0\uc874\uc9f1\uc9f1 \ucc9c\ub9c8\uc785\ub2c8\ub2e4! \ud32c\ub2c9[\ub9c8\uad50]",
+            "skin_type": 0,
+            "skin_no": 0,
+            "title_skin_image": ""
+        },
+        "groups": [
+            {
+                "idx": 15386,
+                "group_no": 2,
+                "priority": 999,
+                "info": {
+                    "group_name": "\ubca0\uc2a4\ud2b8 BJ",
+                    "group_class_name": "badge_best",
+                    "group_background_color": "#00ca55"
+                }
+            }
+        ],
+        "menus": [
+            {
+                "bbs_no": 100429667,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 200,
+                "display_type": 104,
+                "rnum": 0,
+                "line": 0,
+                "indention": 0,
+                "name": "\ucc9c\ub9c8 \uc774\uc57c\uae30, \uacf5\uc9c0",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 0
+            },
+            {
+                "bbs_no": 103543723,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 208,
+                "display_type": 104,
+                "rnum": 1,
+                "line": 0,
+                "indention": 0,
+                "name": "\ucc9c\ub9c8 \uc77c\uae30\uc7a5",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 0
+            },
+            {
+                "bbs_no": 103612269,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 208,
+                "display_type": 104,
+                "rnum": 2,
+                "line": 0,
+                "indention": 0,
+                "name": "\ucc9c\ub9c8 \ubc29\uc1a1\uc77c\uc815",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 0
+            },
+            {
+                "bbs_no": 100738675,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 259,
+                "display_type": 106,
+                "rnum": 3,
+                "line": 0,
+                "indention": 0,
+                "name": "",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 0
+            },
+            {
+                "bbs_no": 97328502,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 242,
+                "display_type": 104,
+                "rnum": 4,
+                "line": 1,
+                "indention": 0,
+                "name": "\uc77c\ubc18\uac8c\uc2dc\ud310",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 1
+            },
+            {
+                "bbs_no": 101028777,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 242,
+                "display_type": 104,
+                "rnum": 5,
+                "line": 0,
+                "indention": 0,
+                "name": "\ucc9c\ub9c8 \uc774\uac70 \ubd24\uc5b4?",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 0
+            },
+            {
+                "bbs_no": 100690357,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 242,
+                "display_type": 104,
+                "rnum": 6,
+                "line": 0,
+                "indention": 0,
+                "name": "\ucee8\ud150\uce20 \ucd94\ucc9c",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 0
+            },
+            {
+                "bbs_no": 100690381,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 242,
+                "display_type": 104,
+                "rnum": 7,
+                "line": 0,
+                "indention": 0,
+                "name": "\uc6d4\ub4dc\ucef5 \ucd94\ucc9c",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 0
+            },
+            {
+                "bbs_no": 100738707,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 242,
+                "display_type": 104,
+                "rnum": 8,
+                "line": 0,
+                "indention": 0,
+                "name": "\ucda4\uae30\uc870\uc2dd \ucd94\ucc9c",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 0
+            },
+            {
+                "bbs_no": 97328503,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 216,
+                "display_type": 101,
+                "rnum": 9,
+                "line": 1,
+                "indention": 0,
+                "name": "\ubc29\uba85\ub85d",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 1
+            }
+        ],
+        "upd": {
+            "station_no": 26347626,
+            "user_id": "calinya",
+            "asp_code": 0,
+            "fan_cnt": 19783,
+            "today0_visit_cnt": 939,
+            "today1_visit_cnt": 0,
+            "total_visit_cnt": 510684,
+            "today0_ok_cnt": 91,
+            "today1_ok_cnt": 0,
+            "today0_fav_cnt": 1,
+            "today1_fav_cnt": 0,
+            "total_ok_cnt": 85614,
+            "total_view_cnt": 2304557
+        },
+        "vods": [
+            {
+                "bbs_no": 97328500,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 216,
+                "display_type": 108,
+                "rnum": 0,
+                "line": 1,
+                "indention": 0,
+                "name": "\ubc29\uc1a1 \ub2e4\uc2dc\ubcf4\uae30",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 1
+            },
+            {
+                "bbs_no": 97328501,
+                "station_no": 26347626,
+                "auth_no": 101,
+                "w_auth_no": 216,
+                "display_type": 109,
+                "rnum": 0,
+                "line": 1,
+                "indention": 0,
+                "name": "\ubc29\uc1a1 \ud558\uc774\ub77c\uc774\ud2b8",
+                "name_font": 0,
+                "main_view_yn": 0,
+                "view_type": 1
+            }
+        ],
+        "sns": [],
+        "broad_start": "2024-09-30 15:04:24",
+        "grade": 0,
+        "jointime": "2023-12-06 10:18:58",
+        "station_name": "\uce74\ub9b0\uc57c",
+        "station_no": 26347626,
+        "station_title": "\ubcf8 \ucc9c\ub9c8\ub294 \uce74\ub9b0\uc57c\ub77c\uace0 \ud558\uc624\uc785\ub2c8\ub2e4~~!",
+        "total_broad_time": 8119914,
+        "user_id": "calinya",
+        "user_nick": "\uce74\ub9b0\uc57c",
+        "active_no": 0
+    },
+    "broad": {
+        "user_id": "calinya",
+        "broad_no": 277226482,
+        "broad_title": "8\uc2dc \uac90\uc138\uc774 \ud569\ubc29\uc778 \uac83\uc774\ub2e4\uc5d0\uc694~",
+        "current_sum_viewer": 186,
+        "broad_grade": 19,
+        "is_password": false
+    },
+    "starballoon_top": [
+        {
+            "user_id": "dhdtnsdl",
+            "user_nick": "[\ub9c8\uad50]\uc250\ub951",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/dh\/dhdtnsdl\/dhdtnsdl.jpg"
+        },
+        {
+            "user_id": "se03037",
+            "user_nick": "[\ub9c8\uad50]\uadf8\ub300",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/se\/se03037\/se03037.jpg"
+        },
+        {
+            "user_id": "kyoung5768",
+            "user_nick": "[\ub9c8\uad50]\uc9d1\ub300\uc9c0",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/ky\/kyoung5768\/kyoung5768.jpg"
+        },
+        {
+            "user_id": "top0614",
+            "user_nick": "\uc545\uc5b4\ub2d8\uc0ac\ub791\ud574",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/to\/top0614\/top0614.jpg"
+        },
+        {
+            "user_id": "cdk4881",
+            "user_nick": "[\ub9c8\uad50]Da_ry",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/cd\/cdk4881\/cdk4881.jpg"
+        },
+        {
+            "user_id": "160789",
+            "user_nick": "\uc9d0\ubc14\ub85c",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/16\/160789\/160789.jpg"
+        },
+        {
+            "user_id": "hang2612",
+            "user_nick": "\uc548\uc624\ub294\uc0ac\ub78c",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/ha\/hang2612\/hang2612.jpg"
+        },
+        {
+            "user_id": "bbing123",
+            "user_nick": "\ub9e4\ub2c8\uc800\ubca0\ube44",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/bb\/bbing123\/bbing123.jpg"
+        },
+        {
+            "user_id": "ellus123",
+            "user_nick": "\u314br\ub9b0\uc57c",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/el\/ellus123\/ellus123.jpg"
+        },
+        {
+            "user_id": "zerow2",
+            "user_nick": "[\ub9c8\uad50]\ucf69\ub5a1",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/ze\/zerow2\/zerow2.jpg"
+        },
+        {
+            "user_id": "fascinateee",
+            "user_nick": "\uc637\ucf54\uce20\uc720\ud0c001",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/fa\/fascinateee\/fascinateee.jpg"
+        },
+        {
+            "user_id": "ktw82",
+            "user_nick": "[\ub9c8\uad50]\uacf5\ud3ec\uc9f1",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/kt\/ktw82\/ktw82.jpg"
+        },
+        {
+            "user_id": "oreguer",
+            "user_nick": "[\ub9c8\uad50]\uc774\ube75\uc9c4",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/or\/oreguer\/oreguer.jpg"
+        },
+        {
+            "user_id": "kkt8455",
+            "user_nick": "\uac80\ud328",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/kk\/kkt8455\/kkt8455.jpg"
+        },
+        {
+            "user_id": "bmc1818",
+            "user_nick": "\u2665\uc808\uad6c\ucff5\ub5a1",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/bm\/bmc1818\/bmc1818.jpg"
+        },
+        {
+            "user_id": "superatome",
+            "user_nick": "\uce74\ud0c0\ub9ac\ub0d0",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/su\/superatome\/superatome.jpg"
+        },
+        {
+            "user_id": "tljglife",
+            "user_nick": "[\ub9c8\uad50]\ucffc\uce74",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/tl\/tljglife\/tljglife.jpg"
+        },
+        {
+            "user_id": "alunacalla",
+            "user_nick": "\uae30\ub77c\ubcf4\uc2dc",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/al\/alunacalla\/alunacalla.jpg"
+        },
+        {
+            "user_id": "chimung",
+            "user_nick": "MK\uae40\ubd95\uae30",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/ch\/chimung\/chimung.jpg"
+        },
+        {
+            "user_id": "boost1204",
+            "user_nick": "[\ub9c8\uad50]\ud0a4\ubc14",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/bo\/boost1204\/boost1204.jpg"
+        }
+    ],
+    "sticker_top": [
+        {
+            "user_id": "alunacalla",
+            "user_nick": "\uae30\ub77c\ubcf4\uc2dc",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/al\/alunacalla\/alunacalla.jpg"
+        },
+        {
+            "user_id": "junho5046",
+            "user_nick": "[\ub9c8\uad50]\uaf41\uaf41\uaf41",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/ju\/junho5046\/junho5046.jpg"
+        },
+        {
+            "user_id": "anumij",
+            "user_nick": "\uc544\uce58\ub545",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/an\/anumij\/anumij.jpg"
+        },
+        {
+            "user_id": "top0614",
+            "user_nick": "[\ub9c8\uad50]\uc77c\ubc18\uc778",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/to\/top0614\/top0614.jpg"
+        },
+        {
+            "user_id": "dhdtnsdl",
+            "user_nick": "[\ub9c8\uad50]\uc250\ub951",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/dh\/dhdtnsdl\/dhdtnsdl.jpg"
+        },
+        {
+            "user_id": "coroncorom",
+            "user_nick": "\ucf5c\uc2ac\ub85c",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/co\/coroncorom\/coroncorom.jpg"
+        },
+        {
+            "user_id": "dbdud9717",
+            "user_nick": "\uc774\uc720\uc640\uc774",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/db\/dbdud9717\/dbdud9717.jpg"
+        },
+        {
+            "user_id": "ngustmd9694",
+            "user_nick": "\uba54\uc774\ud50c\uc2dc\ub7fd_",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/ng\/ngustmd9694\/ngustmd9694.jpg"
+        },
+        {
+            "user_id": "jcyang447",
+            "user_nick": "\ub274\ube44_\uc5d0\ube44\uce04",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/jc\/jcyang447\/jcyang447.jpg"
+        },
+        {
+            "user_id": "se3131",
+            "user_nick": "[\ub9c8\uad50]\ud0c0\uc794",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/se\/se3131\/se3131.jpg"
+        },
+        {
+            "user_id": "bbing123",
+            "user_nick": "\ub9e4\ub2c8\uc800\ubca0\ube44",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/bb\/bbing123\/bbing123.jpg"
+        },
+        {
+            "user_id": "sh90sh",
+            "user_nick": "[\ub9c8\uad50]\ub9b0\uc57c\u2605",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/sh\/sh90sh\/sh90sh.jpg"
+        },
+        {
+            "user_id": "cmzl0230",
+            "user_nick": "\ubbf8\uc720\ub0e5",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/cm\/cmzl0230\/cmzl0230.jpg"
+        },
+        {
+            "user_id": "wlqhrud90",
+            "user_nick": "\ube75\uc57c\ube75\uc57c\ud41d\uc57c",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/wl\/wlqhrud90\/wlqhrud90.jpg"
+        },
+        {
+            "user_id": "thlee2114",
+            "user_nick": "\ubca0\ubc14\uace0\ube14",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/th\/thlee2114\/thlee2114.jpg"
+        },
+        {
+            "user_id": "injun0520",
+            "user_nick": "\uce74\ud6c4\uce58\uc774",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/in\/injun0520\/injun0520.jpg"
+        },
+        {
+            "user_id": "bizins",
+            "user_nick": "\ube44\uc9c4\uc2a4",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/bi\/bizins\/bizins.jpg"
+        },
+        {
+            "user_id": "bmy1006",
+            "user_nick": "\uc720\uc778Na",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/bm\/bmy1006\/bmy1006.jpg"
+        },
+        {
+            "user_id": "nnemju1324",
+            "user_nick": "Nemju_\ub134\uc8fc",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/nn\/nnemju1324\/nnemju1324.jpg"
+        },
+        {
+            "user_id": "aasd0325",
+            "user_nick": "Go\ubd88\uacf0",
+            "profile_image": "\/\/profile.img.afreecatv.com\/LOGO\/aa\/aasd0325\/aasd0325.jpg"
+        }
+    ],
+    "subscription": {
+        "count": 213
+    },
+    "is_best_bj": true,
+    "is_partner_bj": false,
+    "is_sports_bj": false,
+    "is_ppv_bj": false,
+    "is_af_supporters_bj": false,
+    "is_shopfreeca_bj": false,
+    "is_favorite": true,
+    "is_subscription": false,
+    "is_owner": false,
+    "is_manager": false,
+    "is_notice": false,
+    "is_adsence": true,
+    "is_mobile_push": false,
+    "subscribe_visible": "on",
+    "country": "KR",
+    "current_timestamp": "2024-09-30 16:32:13"
+}

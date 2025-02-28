@@ -1,6 +1,10 @@
+import { swampData } from '@/constants/swampData';
 import { Streamer } from '@/types/streamers';
 
 export function transformChzStreamerData(data: any, name: string, channelId: string): Streamer {
+  // swampData에서 channelId가 같은 항목을 찾음
+  const local = swampData.find(s => s.channelId === channelId);
+
   const streamer: Streamer = {
     name,
     platform: 'chz',
@@ -9,6 +13,7 @@ export function transformChzStreamerData(data: any, name: string, channelId: str
     channelImageUrl: data.channelImageUrl || '/default-avatar.png',
     openLive: data.openLive || false,
     live: null,
+    liveurl: local?.liveUrl || "",
   };
   return streamer;
 }
@@ -20,6 +25,8 @@ export function transformChzLiveDetailData(streamer: Streamer, liveData: any): S
       liveImageUrl: liveData.liveImageUrl || '',
       concurrentUserCount: liveData.concurrentUserCount || 0,
       liveCategoryValue: liveData.liveCategoryValue || '',
+      adult: liveData.adult || false,
+      liveNo: liveData.liveId
     };
   }
   return streamer;
@@ -30,6 +37,10 @@ export function transformAfStreamerData(data: any, name: string, channelId: stri
   const userNick = data.station.user_nick || channelId;
   const broad = data.broad || null;
 
+    // swampData에서 channelId가 같은 항목을 찾음
+    const local = swampData.find(s => s.channelId === channelId);
+
+
   const streamer: Streamer = {
     name,
     platform: 'af',
@@ -38,6 +49,7 @@ export function transformAfStreamerData(data: any, name: string, channelId: stri
     channelImageUrl: profileImage,
     openLive: false,
     live: null,
+    liveurl: local?.liveUrl || "",
   };
 
   if (broad) {
@@ -47,6 +59,8 @@ export function transformAfStreamerData(data: any, name: string, channelId: stri
       liveImageUrl: `https://liveimg.afreecatv.com/h/${broad.broad_no}`,
       concurrentUserCount: broad.current_sum_viewer || 0,
       liveCategoryValue: '', // AfreecaTV may not provide category info
+      adult: broad.broad_grade >= 19 ? true : false,
+      liveNo: broad.broad_no
     };
   }
 

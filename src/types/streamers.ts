@@ -3,6 +3,8 @@ export interface LiveDetail {
     liveImageUrl: string;
     concurrentUserCount: number;
     liveCategoryValue: string;
+    adult: boolean;
+    liveNo: string;
   }
   
   export interface Streamer {
@@ -13,4 +15,8 @@ export interface LiveDetail {
     channelImageUrl: string;
     openLive: boolean;
     live: LiveDetail | null;
+    liveurl: string; 
+    img?: {
+      mc?: string;
+    };
   }
