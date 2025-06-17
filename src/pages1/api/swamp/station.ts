@@ -3,6 +3,7 @@
   스트리머 정보 : https://api.chzzk.naver.com/service/v1/channels/-
   실시간 방송 정보 : https://api.chzzk.naver.com/polling/v3/channels/-/live-status
   실시간 방송 디테일 : https://api.chzzk.naver.com/service/v2/channels/-/live-detail
+  팔로우 실시간 방송 : https://api.chzzk.naver.com/service/v1/channels/followings/live
 
   - 아프리카 -
   스트리머 정보 : https://bjapi.afreecatv.com/api/-/station
