@@ -33,7 +33,7 @@
     "**/*.tsx",
     "src/app/page.tsz",
     ".next/types/**/*.ts"
-  ],
+, "src/app/api/test/chzzk/channel-info"  ],
   "exclude": [
     "node_modules"
   ]

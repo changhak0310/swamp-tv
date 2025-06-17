@@ -34,6 +34,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@types/selenium-webdriver": "^4.1.26",
+    "daisyui": "^5.0.0-beta.9",
     "eslint": "^8",
     "eslint-config-next": "14.2.6",
     "postcss": "^8",

@@ -1,6 +1,5 @@
 import type { Config } from "tailwindcss";
 import type { PluginAPI } from 'tailwindcss/types/config';
-import daisyui from "daisyui";
 
 const config: Config = {
     darkMode: ["class"],
@@ -11,6 +10,7 @@ const config: Config = {
   ],
   theme: {
   	extend: {
+		sans: ['var(--font-pretendard)', "ui-sans-serif", "system-ui", "sans-serif"],
   		colors: {
   			primary: {
   				'100': '#35E1C8',
@@ -75,7 +75,6 @@ const config: Config = {
   	}
   },
   plugins: [
-    daisyui,
     function({ addBase, theme }: PluginAPI) {
       addBase({
         'html, body': {

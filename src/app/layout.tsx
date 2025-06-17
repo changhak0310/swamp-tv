@@ -17,6 +17,23 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
+const pretendard = localFont({
+  src: [
+    {
+      path: "./fonts/Pretendard-Regular.woff2",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "./fonts/Pretendard-Bold.woff2",
+      weight: "700",
+      style: "normal",
+    },
+  ],
+  // CSS 변수로도 사용할 수 있습니다.
+  variable: "--font-pretendard",
+});
+
 const Header = ({ toggleSidebar }: { toggleSidebar: () => void }) => {
   return (
     <header className="w-full bg-bg-200 px-6 py-4 flex justify-between items-center">
@@ -26,6 +43,9 @@ const Header = ({ toggleSidebar }: { toggleSidebar: () => void }) => {
           <FaBars size={30} />
         </div>
         <a href="/test">test</a>
+        <a href="/test2">test2</a>
+        <a href="/test3">test3</a>
+        <a href="/ui">ui</a>
 
         {/* Logo */}
         <a href="/" className="text-white text-2xl font-bold">
@@ -87,7 +107,7 @@ export default function RootLayout({
 
   return (
     <html lang="kr">
-      <body className={`${geistSans.variable} ${geistMono.variable} bg-bg-200 antialiased flex flex-col`}>
+      <body className={`${pretendard.variable} ${pretendard.variable} font-sans bg-bg-200 antialiased flex flex-col`}>
         <Header toggleSidebar={toggleSidebar}/>
         <div className="flex">
           {/* <Sidebar isExpanded={isExpanded}/> */}
